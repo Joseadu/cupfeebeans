@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/cupfeebeans",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

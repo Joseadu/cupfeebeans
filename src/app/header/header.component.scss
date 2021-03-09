@@ -1,0 +1,41 @@
+.navbar {
+    height: 150px;
+
+    background-color: transparent;
+    color: black;
+    position: relative;
+    z-index: 1;
+
+    .logo {
+        margin-left: 100px;
+    }
+
+}
+
+.navbar-item {
+
+    margin-right: 20px;
+
+    background-color: transparent;
+
+    color: white;
+
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 22px;
+}
+
+.navbar-item:hover {
+    text-decoration: none;
+
+    background-color: transparent;
+    color: #DEC3A5;
+}
+
+.navbar-item:active {
+    color: #DEC3A5;
+}
+
+.nav-menu {
+    margin-right: 100px;
+}
